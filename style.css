@@ -1,0 +1,14 @@
+img{
+  width:100%;
+  object-fit:contain;
+}
+.row{
+  display:flex;
+  justify-content:center;
+  justify-content:space-between;
+}
+h1{
+  color:blue;
+}
+p{color:blue;}
+body{background-color:#000000;}
